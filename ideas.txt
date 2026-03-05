@@ -1,0 +1,31 @@
+Ideas
+- Specific goal tracker: user customizes the goal (maybe a chore?) and uses a template to track it
+- Tracker Ideas:
+    - Daily mood
+    - Sleep
+    - Weather
+    - Diet: food and water
+    - Mental health
+    - Religious reading
+        - Track page Number
+        - Little notes seciton
+    - Exercise
+        - Number steps
+        - Number minutes
+        - Number calories
+    - Reading
+        - Books read during the month
+        - Review/rating of that book
+    - Movies
+        - Movies seen during the month
+        - Review/rating of that movie?
+- Reminders:
+    - To do
+    - Homework
+- Lists
+    - Shopping
+    - Grocery
+- Routines:
+    - Morning
+    - Afternoon
+    - Evening
