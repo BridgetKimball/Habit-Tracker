@@ -1,7 +1,7 @@
-# Habit Tracker
+# Arise
 
 ## Project Overview
-Habit Tracker is a web app for tracking daily habits, routines, and personal goals.
+Arise is a web app for tracking daily habits, routines, and personal goals.
 
 The project starts with a simple single-habit tracker, then grows into a multi-habit tracker with user accounts and more advanced pages.
 
