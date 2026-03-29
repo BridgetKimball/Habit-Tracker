@@ -1,4 +1,9 @@
-# Arise
+<table width="100%">
+	<tr>
+		<td><h1>Arise</h1></td>
+		<<td align="right"><img src="arise_logo.png" alt="Arise logo" width="140" />></td>
+	</tr>
+</table>
 
 ## Project Overview
 Arise is a web app for tracking daily habits, routines, and personal goals.
